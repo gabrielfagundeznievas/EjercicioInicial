@@ -9,3 +9,5 @@ function imprimir(m,h,t){
 console.log(m + ' la hora es ' + h + ' el tiempo esta ' + t);
 }
 imprimir(mensaje);
+
+DP escribio esto
