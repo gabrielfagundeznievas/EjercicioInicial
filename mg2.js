@@ -1,11 +1,10 @@
-<<<<<<< HEAD
+
 // estoy creando un par de variables
-let hora;
-let tiempo;
-=======
+let hora = '17';
+let tiempo = 'soleado';
+
 let mensaje = "hola mi nombre es Diego.Diego"
-function imprimir(m){
+function imprimir(m,h,t){
 console.log(m);
 }
 imprimir(mensaje);
->>>>>>> refs/remotes/origin/main
