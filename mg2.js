@@ -1,4 +1,4 @@
-MG agregó esto
+//MG agregó esto
 
 // estoy creando un par de variables
 let hora = '17';
@@ -10,5 +10,5 @@ console.log(m + ' la hora es ' + h + ' el tiempo esta ' + t);
 }
 imprimir(mensaje);
 
-DP escribio esto
-GF escribio esto
+//DP escribio esto
+//GF escribio esto
